@@ -1,0 +1,24 @@
+{
+  "name": "gcf_hello_world",
+  "version": "1.0.0",
+  "description": "Based on https://cloud.google.com/functions/docs/quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminhjz/gcp-http-function-archetype.git"
+  },
+  "keywords": [
+    "gcloud",
+    "http-functions",
+    "archetype"
+  ],
+  "author": "Amin Hejazi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aminhjz/gcp-http-function-archetype/issues"
+  },
+  "homepage": "https://github.com/aminhjz/gcp-http-function-archetype#readme"
+}
